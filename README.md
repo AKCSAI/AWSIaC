@@ -13,6 +13,7 @@ Then in your CLI
 This repository contains modular and reusable Terraform configurations for provisioning and managing AWS infrastructure. It showcases real-world examples of Infrastructure as Code (IaC) best practices using Terraform, including setup for EC2 instances, VPCs, security groups, S3 buckets, IAM roles, and more.
 
 🧰 What’s Included
+
 ✅ EC2 instance provisioning
 
 ✅ VPC + Subnet setup
