@@ -4,7 +4,7 @@
 Clone the repo:
 git clone https://github.com/AKCSAI/AWSIaC.git
 
-Then in your command 
+Then in your CLI
 1. cd AWSIaC
 2. terraform init
 3. terraform plan
